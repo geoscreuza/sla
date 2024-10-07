@@ -3,5 +3,11 @@
         --cor-frente:#FF7F50;
         --cor-verso:#8B008B;
         --destaque:#4B0082;
-        
+        --preto:#000000;
+        --branco:#ffffff;
+
+
     }
+body{
+background-color: var(--fundo);
+}
