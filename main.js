@@ -112,3 +112,9 @@ criaCartao(
 'A Lei de Hooke afirma que a deformação elástica de um material é diretamente proporcional à força aplicada até certo limite.'
 )
 
+criaCartao(
+    'Física',
+    'Qual é a diferença entre energia cinética e energia potencial?',
+    'Energia cinética esta relacionada ao movimento (Ec = mv^2/2), enquanto energia potencial está relacionada à posição (Ep = mgh'
+    )
+
