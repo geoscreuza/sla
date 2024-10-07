@@ -17,4 +17,6 @@ footer{
 position:fixed;
 bottom:0;
 background-color:var(--preto);
+color:var(--branco);
+width:100% ;
 }
