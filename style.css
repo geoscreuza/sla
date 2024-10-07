@@ -11,6 +11,7 @@
 
 body{
 background-color: var(--fundo);
+margin: 0;
 }
 
 footer{
@@ -19,4 +20,5 @@ bottom:0;
 background-color:var(--preto);
 color:var(--branco);
 width:100% ;
+text-align: center;
 }
