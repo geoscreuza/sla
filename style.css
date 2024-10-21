@@ -42,6 +42,7 @@ text-align: center;
     height: 100%;
     color: var(--branco);
     text-align: center;
+    
 }
 
 .conteudo-cartao h3{
@@ -53,4 +54,9 @@ text-align: center;
     position: absolute;
     text-align: left;
     font-size: 1.2vw;
+}
+.conteudo-cartao p{
+    margin-top: 5rem;
+    padding: 2rem;
+    font-size: 1.4vw;
 }
