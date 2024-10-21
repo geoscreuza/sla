@@ -73,6 +73,7 @@ text-align: center;
     background-color: var(--cor-verso);
     border: 2px solid var(--destaque);
     transform: rotateY(180deg);
+    border-radius: 45px;
 }
 
 .cartao:hover .conteudo-cartao{
