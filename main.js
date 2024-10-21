@@ -4,12 +4,12 @@ let cartao = document.createElement('article');
 cartao.className = 'cartao';
 cartao.innerHTML = `
 <div class="conteudocartao">
-    <h3>categoria</h3>
+        <h3>${categoria}</h3>
     <div class="pergunta-cartao">
-<p>perguntas</p>
+<p>${perguntas}</p>
     </div> 
      <div class="resposta-cartao">
-<p>respostas</p>
+<p>${respostas}</p>
      </div>
     </div>
     `
