@@ -43,3 +43,10 @@ text-align: center;
     color: var(--branco);
     text-align: center;
 }
+
+.conteudo-cartao h3{
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    color: var(--destaque);
+    padding: 0.5rem;
+}
