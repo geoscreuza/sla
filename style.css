@@ -70,6 +70,9 @@ text-align: center;
 .resposta-cartao{
     font-weight: 700;
     color: var(--destaque);
+    background-color: var(--cor-verso);
+    border: 2px solid var(--destaque);
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
