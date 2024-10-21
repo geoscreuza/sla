@@ -38,5 +38,5 @@ text-align: center;
 }
 
 .conteudo-cartao{
-    background-color:#4B0082;
+    background-color:var(--branco);
 }
