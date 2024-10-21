@@ -115,7 +115,7 @@ criaCartao(
     criaCartao(
         'Física',
         'Qual é a diferença entre energia cinética e energia potencial?',
-        'Energia cinética esta relacionada ao movimento (Ec = mv^2/2), enquanto energia potencial está relacionada à posição (Ep = mgh'
+        'Energia cinética esta relacionada ao movimento (Ec = mv^2/2), enquanto energia potencial está relacionada à posição (Ep = mgh)'
         )
     
     
