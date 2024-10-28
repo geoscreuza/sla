@@ -46,6 +46,6 @@ text-align: center;
     color: var(--branco);
 }
 
-.cartao.hover{
+.cartao:hover{
     transform: scale(1.0);
 }
