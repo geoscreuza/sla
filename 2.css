@@ -33,3 +33,15 @@ color:var(--branco);
 width:100% ;
 text-align: center;
 }
+
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 4rem;
+}
+
+.cartao{
+    background-color: var(--cor-frente);
+    padding: 40px;
+    
+}
