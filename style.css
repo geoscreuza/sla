@@ -21,6 +21,10 @@ header{
     padding: 2rem;
 }
 
+header a{
+    color: var(--branco);
+}
+
 footer{
 position:fixed;
 bottom:0;
