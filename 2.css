@@ -43,5 +43,9 @@ text-align: center;
 .cartao{
     background-color: var(--cor-frente);
     padding: 40px;
-    
+    color: var(--branco);
+}
+
+.cartao.hover{
+    transform: scale(1.0);
 }
