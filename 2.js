@@ -19,7 +19,7 @@ function criaCartao(categoria, pergunta, resposta){
 
     function viraCartao(card){
         const resposta=card.queryselector('.resposta-cartao');
-        it (resposta.style.display==='none'){
+        if (resposta.style.display==='none'){
             resposta.style.display='block';
         }
         else{
