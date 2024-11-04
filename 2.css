@@ -44,7 +44,7 @@ text-align: center;
     background-color: var(--cor-frente);
     padding: 40px;
     color: var(--branco);
-    box-shadow: 2px 2px 2px var(--destaque);
+    box-shadow: 6px 5px 10px var(--destaque);
 }
 
 .cartao:hover{
